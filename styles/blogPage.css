@@ -11,11 +11,13 @@ header {
   text-align: center;
   padding: 5px;
 }
+
 p,
 ol,
 ul {
   font-size: 18px;
 }
+
 .container {
   max-width: 800px;
   margin: 20px auto;
@@ -35,11 +37,13 @@ ul {
   float: left;
   padding: 80px 0 80px;
 }
+
 .social {
   width: 45%;
   float: right;
   padding-left: 20px;
 }
+
 .cover {
   margin: 20px 0;
 }
@@ -47,21 +51,25 @@ ul {
 .info {
   margin-top: 450px;
 }
+
 .posImg {
   float: left;
   width: 50%;
   margin: 45px 0;
 }
+
 .positive {
   float: right;
   width: 45%;
   margin: 55px 0px;
 }
+
 .negImg {
   float: right;
   width: 45%;
   margin: 63px 0px;
 }
+
 .negative {
   float: left;
   width: 50%;
